@@ -10,9 +10,9 @@
   sockets, to understand what Express hides.
 - **[fbm](https://github.com/Pedro-Brion/fbm)**: noise and fractal Brownian motion, CPU first, WebGPU next.
 
-  <h2>Stack</h2>
-  <p>TypeScript · Vue 3 / Nuxt · Angular · React · Node / NestJS · PostgreSQL · Tailwind · Three.js</p>
-  
+<h2>Stack</h2>
+<p>TypeScript · Vue 3 / Nuxt · Angular · React · Node / NestJS · PostgreSQL · Tailwind · Three.js</p>
+
   <p align="end">
       <a href="https://briondev.com">portfolio</a> .
       <a href="https://www.linkedin.com/in/pedro-brion/">linkedin</a>      
