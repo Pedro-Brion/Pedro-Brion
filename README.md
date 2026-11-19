@@ -1,6 +1,6 @@
 <samp>
   <h1>Hi, I'm Pedro!</h1>
-  <p>I'm a full stack developer (JavaScript/TypeScript) with 5+ years building product web apps in Vue, Nuxt, Angular, React and Node. I building things from scratch, learning new things, dynamic fast interfaces and making new systems talk legacy ones.    
+  <p>I'm a full stack developer (JavaScript/TypeScript) with 5+ years building product web apps in Vue, Nuxt, Angular, React and Node. I love building stuff from scratch, learning new things, dynamic fast interfaces and making new systems talk legacy ones.    
     On the side I dabble with real-time graphics for the web: flocking simulations, noise, WebGPU, ThreeJS.</p>
   <h2>Featured</h2>
 
